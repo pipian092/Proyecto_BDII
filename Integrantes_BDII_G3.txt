@@ -1,0 +1,8 @@
+/*Grupo 3 
+Intergrantes:
+
+Cristian Wilfredo Flores Pacheco	20131006382
+      Cesar Jacob Puerto Montoya	20112402027
+     Jared Misael Castro Paguada	20151020512
+   Moisés de Jesús Avilés Sierra	20121008593
+*/
